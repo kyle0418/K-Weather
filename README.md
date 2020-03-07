@@ -3,6 +3,6 @@ A weather software.
 
 # Tips
 
-地图模式：显示全国天气地图（首次打开会耗时较长
+Map mode: Display the weather map of the country (it will take a long time to open for the first time)
 
-文字模式：显示选定省市的天气信息列表
+Text mode: Display weather information list of selected provinces and cities
